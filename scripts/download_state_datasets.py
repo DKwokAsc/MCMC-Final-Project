@@ -5,8 +5,8 @@ import requests
 # ======================================================
 # USER CONFIGURATION (edit these values if needed)
 # ======================================================
-RDH_USERNAME = "your_username"
-RDH_PASSWORD = "your password"
+RDH_USERNAME = "ilyasomeed7@gmail.com"
+RDH_PASSWORD = "H#13755854h"
 STATE = "Wisconsin"      # You can change this to any state
 OUTPUT_FORMAT = "csv"    # only csv is supported by the RDH API
 RDH_LIST_URL = "https://redistrictingdatahub.org/wp-json/download/list"
