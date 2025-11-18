@@ -18,7 +18,7 @@ def main():
     print(f"Reading shapefile:  {shapefile_path}")
 
     if not os.path.exists(shapefile_path):
-        print("❌ ERROR: Shapefile not found. Contents of scripts/data:")
+        print("ERROR: Shapefile not found. Contents of scripts/data:")
         data_dir = os.path.join(script_dir, "data")
         if os.path.isdir(data_dir):
             for name in os.listdir(data_dir):
