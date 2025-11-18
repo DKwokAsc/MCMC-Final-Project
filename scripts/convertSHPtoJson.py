@@ -41,7 +41,7 @@ def main():
     print(f"Writing GeoJSON to: {output_json}")
     gdf.to_file(output_json, driver="GeoJSON")
 
-    print("✅ Conversion complete!")
+    print(" Conversion complete!")
 
 if __name__ == "__main__":
     main()
