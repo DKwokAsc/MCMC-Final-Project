@@ -43,13 +43,13 @@ MCMC-Final-Project/
 
 # How to Reproduce the Results
 ```
-1) Clone the repository
+### 1) Clone the repository
 ```
 git clone https://github.com/your-username/MCMC-Final-Project.git
 cd MCMC-Final-Project
 ```
 
-2) Set up the Python environment
+### 2) Set up the Python environment
 
 The project is written in Python and relies on common data science libraries as well as GerryChain. Recommended environment:
 
@@ -63,9 +63,13 @@ Install required packages (example):
 pip install numpy pandas matplotlib geopandas gerrychain
 ```
 
-3) Run the notebooks
+### 3) Run the notebooks
 
 Navigate to the notebooks/ folder and run the notebooks in order. Each notebook contains markdown explanations describing its purpose and outputs.
+
+OR
+
+Run the documents in Google Collab. Be sure to follow the instructions in the notebooks folder.
 
 # Data Sources
 
