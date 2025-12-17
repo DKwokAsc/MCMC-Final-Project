@@ -76,13 +76,7 @@ Run the documents in Google Collab. Be sure to follow the instructions in the no
 
 Wisconsin 2024 General Election Ward-Level Data
 
-Source: Redistricting Data Hub
-
-Original format: Shapefile (.shp)
-
-Converted to JSON for graph-based modeling and MCMC simulations
-
-All data included in this repository is used strictly for academic and research purposes.
+Source: Redistricting Data Hub [Source](https://redistrictingdatahub.org/dataset/wisconsin-2024-general-election-precinct-level-results-and-boundaries/)
 
 # Notes
 
