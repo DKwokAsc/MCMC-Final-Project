@@ -93,10 +93,10 @@ Some notebooks may require significant runtime due to the computational cost of 
 Intermediate outputs are intentionally included to support transparency and debugging.
 
 ## Developed and Tested by
-- **Jada L.** — 
+- **Jada L.** 
 - **Daniel S.** 
 - **David K.** — [GitHub Profile](https://github.com/DKwokAsc)
-- **Omeed I.** — 
+- **Omeed I.**  
 - **Riley O.** 
 
 Course: Math 435: Math in the City / Fall 2025
