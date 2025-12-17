@@ -40,9 +40,10 @@ MCMC-Final-Project/
 │
 ├── README.md
 └── .gitignore
+```
 
 # How to Reproduce the Results
-```
+
 ### 1) Clone the repository
 ```
 git clone https://github.com/your-username/MCMC-Final-Project.git
